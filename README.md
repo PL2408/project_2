@@ -8,5 +8,5 @@ The App Generator project was used as a basis, for which I would like to thank's
 Link to the App Generator project:
 * https://github.com/app-generator/flask-adminlte
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
