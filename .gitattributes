@@ -1,0 +1,8 @@
+* text=lf
+
+*.tf text
+*.sh text
+*.html text
+*.css text
+*.md text
+Dockerfile text
